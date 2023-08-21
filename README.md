@@ -1,4 +1,4 @@
-# Crop-Dissease-Classificaton-WebApp-  
+# Crop-Dissease-Classificaton-API
 ### An API designed for identifying different disseases for a specific crop  
 Project Dataset link :- https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 Classes and models link :- https://drive.google.com/drive/folders/1Cy7sGp29612xIcxxAuV8cvToIvpkUpeO?usp=sharing
